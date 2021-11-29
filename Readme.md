@@ -6,9 +6,9 @@ The [default `git.tag` variable](https://mkdocs-macros-plugin.readthedocs.io/en/
 ## Install
 
 ```bash
-pip install git+https://github.com/itaysk/mkdocs-macro-gittagversion
+pip install git+https://github.com/itaysk/mkdocs-macros-gittagversion
 # OR
-# python3 mkdocs-macro-gittagversion/setup.py install
+# python3 mkdocs-macros-gittagversion/setup.py install
 ```
 
 ## Import
